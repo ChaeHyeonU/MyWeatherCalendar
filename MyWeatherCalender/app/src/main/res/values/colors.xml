@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BBF0F8</color>
+    <color name="colorPrimaryDark">#74C5CF</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorSun">#FFBB1C</color>
+    <color name="colorCloud">#787878</color>
+    <color name="colorRain">#265A7A</color>
+    <color name="colorSnow">#A4FDFF</color>
+    <color name="colorToday">#51D6D6D6</color>
+    <color name="colorTopBar">#BBF0F8</color>
+    <color name="colorContent">#81BDE4EA</color>
+    <color name="colorTextGrey">#373737</color>
+</resources>
